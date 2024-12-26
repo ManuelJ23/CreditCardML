@@ -31,4 +31,4 @@ pip install pandas numpy matplotlib scikit-learn
 
 ## Author
 **Manuel Jarque**
-I enjoy working with data and uncovering insights to answer meaningful questions.
+- I enjoy working with data and uncovering insights to answer meaningful questions.
